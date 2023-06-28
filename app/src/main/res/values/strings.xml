@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login and Signup</string>
+    <string name="signup_page">Signup Page</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="sigin_up">Sigin Up</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login_page">Login Page</string>
+    <string name="login">login</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="don_t_have_an_account_signup">Don\'t have an account? Signup</string>
+    <string name="log_out">Log Out</string>
+</resources>
